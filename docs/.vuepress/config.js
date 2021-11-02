@@ -1,13 +1,13 @@
 module.exports = {
-  title: '@oyw',
+  title: '@lizhenyong',
   lang: 'zh-CN',
-  base: '/books/',
+  base: '/myGithubBlog/',
   head: [
     [
       'link',
       {
         rel: 'icon',
-        href: 'https://cdn.jsdelivr.net/gh/oyw6719119/gitbookpig/202110181556789.jpg',
+        href: 'https://cdn.jsdelivr.net/gh/Zone-lzy/myImg/2021Pictureiu.jpg',
       },
     ],
   ],
@@ -20,7 +20,7 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: 'https://cdn.jsdelivr.net/gh/oyw6719119/gitbookpig/202110181556789.jpg',
+    logo: 'https://cdn.jsdelivr.net/gh/Zone-lzy/myImg/2021Pictureiu.jpg',
     lastUpdated: true,
     sidebarDepth: 3,
     navbar: [
