@@ -15,6 +15,9 @@ sidebar:
   -
     text: 'Java'
     link: '/Java'
+  -
+    text: '第一季'
+    link: '/fast'
 ---
 
 个人博客，随便写写
